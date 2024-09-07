@@ -39,7 +39,6 @@ function menuMobile(){
 }
 
 function gridMobile(){
-    console.log('AAAAA')
     new Splide('#box_mobile', {
         type: 'loop',
         perPage: 1,
